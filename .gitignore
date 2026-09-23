@@ -1,0 +1,27 @@
+# Patient-level data
+data/
+*.sav
+*.csv
+*.xlsx
+*.xls
+*.nii
+*.nii.gz
+
+# Generated models and results
+results/
+*.RData
+*.rds
+*.rda
+
+# R session and project files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Temporary and system files
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
+
